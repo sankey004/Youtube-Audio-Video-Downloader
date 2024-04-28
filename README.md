@@ -5,7 +5,7 @@ This is the Youtube Audio Video Downloader developed by GECA Developers which is
 
 1. Click on Download zip and Extract the file YoutubeDownloader.zip by right clicking on it and choosing extract all options.
 
-2. Open the folder YoutubeDownloader and navigate to dist folder open it there you will see YoutubeDownloader.exe file.
+2. Open the folder YoutubeDownloader and navigate to YoutubeDownloader.exe file.
 
 3. Double click on it then your youtubedownloader application will be opened.
 
