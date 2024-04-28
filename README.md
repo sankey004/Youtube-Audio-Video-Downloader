@@ -22,10 +22,8 @@ Working of the Youtube Audio Video Downloader :
 ![image](https://github.com/sankey004/Youtube-Audio-Video-Downloader/assets/68685778/588576e7-0c24-48a3-aede-0a66e5c43fb9)
 
 
-For More Details you can refer to PPT(Minor Project Presentation.pptx) and Project Report(Youtube Audio Video Downloader Project Report.pdf).
-
 ![image](https://github.com/sankey004/Youtube-Audio-Video-Downloader/assets/68685778/536c3aeb-acf9-41ea-8615-c4f6415d66c2)
 
 
-
+For More Details you can refer to PPT(Minor Project Presentation.pptx) and Project Report(Youtube Audio Video Downloader Project Report.pdf).
 
