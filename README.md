@@ -1,5 +1,5 @@
 # Youtube-Audio-Video-Downloader
-This is the Youtube Audio Video Downloader developed by GECA Developers (Sanket Ghodke, Rakesh Chaure, Swapnil Jadhav and Gopal Ghule) from Governement Engineering College Aurangabad who were pursuing Masters Degree in Computer Application reciding in final year.
+This is the Youtube Audio Video Downloader developed by GECA Developers in python programming language (Sanket Ghodke, Rakesh Chaure, Swapnil Jadhav and Gopal Ghule) from Government Engineering College Aurangabad who were pursuing Masters Degree in Computer Application when they were in final year.
 
 # Steps to follow:
 
