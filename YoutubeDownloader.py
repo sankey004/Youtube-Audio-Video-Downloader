@@ -68,8 +68,8 @@ root.configure(bg='#ADFF2F')
 root.geometry('780x500')
 root.resizable(False, False)
 root.attributes()
-photo=PhotoImage(file=("C:\\Users\\sghod\PycharmProjects\\YoutubeDownloader\\Youtube1.png"))
-root.iconphoto(False,photo)
+#photo=PhotoImage(file=("C:\Users\SHARSHAW\AppData\Local\Programs\Python\Python312\YoutubeDownloader\Youtube1.png"))
+#root.iconphoto(False,photo)
 #root.iconbitmap('YouTube.ico')
 
 downloadindex = 0
